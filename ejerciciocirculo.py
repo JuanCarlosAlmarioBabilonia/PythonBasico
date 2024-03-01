@@ -1,0 +1,5 @@
+cir=float(input("Ingrese el radio del circulo: "))
+area=3.1416 *(cir*cir)
+per=3.1416 * (cir+cir)
+print ("El area del circulo es: ",area)
+print("El perimetro del circulo es: ",per)
